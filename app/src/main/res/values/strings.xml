@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tute2</string>
+    <string name="Number1">Number1</string>
+    <string name="Number2">Number2</string>
+    <string name="Name">Name</string>
+    <string name="Ok">Ok</string>
+    <string name="Send">Send</string>
+
+</resources>
